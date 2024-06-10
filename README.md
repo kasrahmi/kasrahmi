@@ -15,5 +15,5 @@ I'm Amirkasra, a Computer Engineering student at Sharif University of Technology
 ## Contact Me
 
 - 📫 How to reach me: [a.kasrahmi@gmail.com](mailto:a.kasrahmi@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 💼 Connect with me on [Kasra Ahmadi](https://www.linkedin.com/in/kasra-ahmadi-4652a925b/)
 
