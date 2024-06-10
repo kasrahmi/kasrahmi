@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kasrahmi/kasrahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi there 👋
-
 I'm Amirkasra, a Computer Engineering student at Sharif University of Technology.
 
 ## About Me
